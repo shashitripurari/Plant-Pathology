@@ -21,5 +21,7 @@ scab: one of the target labels
 images
 A folder containing the train and test images, in jpg format.
 
+# EfficientNet
 
+EfficientNet model is able to achieve 99% on the train data, 98% on validation data and 97% on test data 
 
