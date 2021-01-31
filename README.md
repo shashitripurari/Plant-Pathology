@@ -1,4 +1,4 @@
-# Plant-Pathology
+# Identification Apple Leaf Diseases using EfficientNet and DenseNet
 
 
 # Problem Statement
